@@ -1,9 +1,11 @@
 ---
 title: About me
-date: 2026-02-04
-draft: false
+draft: true
 tags:
+date: 2026-02-04
 ---
+# About me: Dr. Jesús Sánchez-Lacasa
+
 I am an experimental physicist dedicated to solving practical challenges through the application of rigorous science. My career has been defined by a transition from high-level academia—investigating nanoscale interactions—to developing innovative industrial solutions in the private sector.
 
 Currently, I serve as an **R&D and System Physicist at Magnus Metal Ltd.** in Israel. Here, I act as the in-house specialist for:

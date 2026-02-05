@@ -1,9 +1,17 @@
 ---
-title: About me
+title: J. S. Lacasa
 date: 2026-02-04
 draft: false
 tags:
 ---
+> [!info] Under construction
+> This site is a living "digital garden" and is constantly changing and evolving. Some links or technical documentations may still be in progress. If you are looking for specific data from my CV or details on a particular project, please **[[contact me here]]**.
+
+- Know me better, visit the [[about me]] page.
+- Contact me [[contact me here|here]].
+
+Esta es la foto de un libro: ![[Pasted image 20260205123157.png]]
+
 I am an experimental physicist dedicated to solving practical challenges through the application of rigorous science. My career has been defined by a transition from high-level academia—investigating nanoscale interactions—to developing innovative industrial solutions in the private sector.
 
 Currently, I serve as an **R&D and System Physicist at Magnus Metal Ltd.** in Israel. Here, I act as the in-house specialist for:

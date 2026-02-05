@@ -10,7 +10,16 @@ tags:
 - Know me better, visit the [[about me]] page.
 - Contact me [[contact me here|here]].
 
-Esta es la foto de un libro: ![[Pasted image 20260205123157.png]]
+
+
+| RR.SS.   |                   |
+| -------- | ----------------- |
+| github   | ![[github.png]]   |
+| linkedin | ![[linkedin.png]] |
+
+![[github.png]]
+
+![[linkedin.png]]
 
 I am an experimental physicist dedicated to solving practical challenges through the application of rigorous science. My career has been defined by a transition from high-level academia—investigating nanoscale interactions—to developing innovative industrial solutions in the private sector.
 

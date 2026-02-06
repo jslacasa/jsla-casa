@@ -15,13 +15,13 @@ tags:
 >My career is defined by two parallel evolutions: **a professional shift** from the fundamental inquiry of academia to the rapid innovation of the private sector, and **a geographical journey** from my roots in Spain—where I completed my PhD—to the tech-driven landscape of Israel. This journey began with a postdoctoral fellowship at the Weizmann Institute of Science and has since evolved into a dedicated focus on industrial R&D.
 
 
-# Jump to
+# Sections
+
 - [[CV-Portfolio/index|CV and portfolio]]
 - [[Opinion articles/index|Opinion articles]]
 
 
 # Find me in
-- ![[linkedin.png|16]] [LinkedIn](https://www.linkedin.com/in/jslacasa/) 
-- ![[github.png|16]] [GitHub](https://github.com/jslacasa)
-- ![[circle-user-round.png|16]] [[Contact me]]
-
+- ![[linkedin.png|16]] - [LinkedIn](https://www.linkedin.com/in/jslacasa/) 
+- ![[github.png|16]] - [GitHub](https://github.com/jslacasa)
+- ![[circle-user-round.png|16]] - [[Contact me]]

@@ -11,5 +11,5 @@ tags:
 
 
 Find me in: 
-- ![[linkedin.png|16]] [LinkedIn](https://www.linkedin.com/in/jslacasa/) 
-- ![[github.png|16]] [GitHub](https://github.com/jslacasa)
+- ![[linkedin.png|16]] - [LinkedIn](https://www.linkedin.com/in/jslacasa/) 
+- ![[github.png|16]] - [GitHub](https://github.com/jslacasa)

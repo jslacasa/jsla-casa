@@ -4,10 +4,10 @@ date: 2026-02-04
 draft: false
 tags:
 ---
-> [!info] Under construction
+> [!info]+ Under construction
 > This site is a living "digital garden" and is constantly changing and evolving. Some links or technical documentations may still be in progress. If you are looking for specific data from my CV or details on a particular project, please **[[contact me here]]**.
 
-- Know me better, visit the [[about me]] page.
+- Know me better, visit the [[About me]] page.
 - Contact me [[contact me here|here]].
 
 

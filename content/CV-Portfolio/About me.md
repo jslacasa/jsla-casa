@@ -1,6 +1,6 @@
 ---
 title: About me
-draft: false
+draft: true
 tags:
 date: 2026-02-04
 ---

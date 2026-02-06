@@ -1,5 +1,5 @@
 ---
-title: Contact me here
+title: Contact me
 date:
 draft: false
 tags:
@@ -10,3 +10,6 @@ tags:
 > 
 
 
+Find me in: 
+- ![[linkedin.png|20]] [LinkedIn]() 
+- ![[github.png|20]] [GitHub]()

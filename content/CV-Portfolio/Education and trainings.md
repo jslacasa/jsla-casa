@@ -1,5 +1,5 @@
 ---
-title: Education
+title: Education and trainings
 date:
 draft: false
 tags:

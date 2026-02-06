@@ -1,7 +1,7 @@
 ---
 title: La amenaza en Gaza es tripartita
 date: 2023-11-17
-draft: false
+draft: true
 tags:
   - español
 ---
@@ -25,5 +25,3 @@ Lo que me lleva a la tercera y última amenaza para la población de la Franja: 
 
 Seguramente no sea este el momento, pero un futuro proceso de paz solo será posible cuando los palestinos puedan vivir en su tierra de la Franja de Gaza y Cisjordania
 con dignidad, sin el yugo al cuello de las amenazas descritas.
-
-[[Opinión|← Artículos]]

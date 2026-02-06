@@ -4,7 +4,13 @@ date:
 draft: false
 tags:
 ---
-### About me 
+1. [[Profesional experience]]
+2. [[Portfolio]]
+3. [[Education and trainings]]
+4. [[Publications and patents]]
+5. [[Awards and recognitions]]
+
+### Summary
 
 I am an experimental physicist dedicated to solving practical challenges through the application of rigorous science. My career has been defined by a transition from high-level academia—investigating nanoscale interactions—to developing innovative industrial solutions in the private sector.
 
@@ -22,10 +28,5 @@ My toolkit is built on a foundation of data-driven problem solving and advanced 
 - **Advanced Microscopy:** Expert in Atomic Force Microscopy (AFM) and various spectroscopy techniques (XRD, XPS, XAS).
 - **Innovation:** I am a co-inventor of a patented "Laminar flow localized protective atmosphere for additive casting" (WO2024/052904).
 
-### CV in detail
 
-1. [[Profesional experience]]
-2. [[Portfolio]]
-3. [[Education and trainings]]
-4. [[Publications and patents]]
-5. [[Awards and recognitions]]
+

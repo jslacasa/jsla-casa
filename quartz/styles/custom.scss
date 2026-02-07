@@ -1,3 +1,22 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* Unbold note names in the Explorer */
+.explorer {
+  button, a {
+    font-weight: normal !important;
+  }
+}
+
+/* Unbold note names in the Explorer */
+.toc {
+  button, a {
+    font-weight: normal !important;
+  }
+}
+
+/* Hide the list of items on folder pages */
+.page-listing {
+  display: none !important;
+}

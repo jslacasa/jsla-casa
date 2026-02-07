@@ -22,7 +22,7 @@ tags:
 ---
 ## Specialized Training
 
-### **CFD Modeling in COMSOL Multiphysics®**
+### ****CFD Modeling in COMSOL Multiphysics®****
 *Online | July 2022 (32 Hours)*
 * **Focus:** Single-phase laminar flow modeling, turbulent flow, compressible flow, conjugate heat transfer, reacting flow, fluid–structure interaction (FSI), multiphase flow, and porous media flow.
 

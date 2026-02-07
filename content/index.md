@@ -25,3 +25,4 @@ tags:
 - ![[linkedin.png|16]] - [LinkedIn](https://www.linkedin.com/in/jslacasa/) 
 - ![[github.png|16]] - [GitHub](https://github.com/jslacasa)
 - ![[circle-user-round.png|16]] - [[Contact me]]
+

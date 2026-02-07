@@ -3,6 +3,7 @@ title: CV and Portfolio
 date:
 draft: false
 tags:
+enableToc: "true"
 ---
 1. [[Profesional experience]]
 2. [[Portfolio]]

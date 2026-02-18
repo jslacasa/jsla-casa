@@ -5,14 +5,14 @@ draft: false
 tags:
 ---
 
-Hello! My name is **Jesús** and I am an **experimental physicist** dedicated to solving practical challenges through the application of rigorous science. 
+Hello! My name is Jesús and I am an experimental physicist dedicated to solving practical challenges through the application of rigorous science. 
 
-My career is defined by two parallel evolutions: **a professional shift** from the fundamental inquiry of academia to the rapid innovation of the private sector, and **a geographical journey** from my roots in Spain to the tech-driven landscape of Israel. 
+My career is defined by two parallel evolutions: a **professional shift** from the fundamental inquiry of academia to the rapid innovation of the private sector, and a **geographical journey** from my roots in Spain to the tech-driven landscape of Israel. 
 
 
 # Main sections
 
-- [[CV-Portfolio/index|CV and portfolio]]
+- [[content/CV/index|CV and portfolio]]
 - [[Opinion articles/index|Opinion articles]]
 - [[now|What am I doing now?]]
 

@@ -1,0 +1,14 @@
+---
+title: Garden
+date:
+draft: false
+tags:
+---
+Explore a chronological collection of my analysis and opinion pieces.
+%% 
+
+| Date         | Language | Link                                                                                              |
+| ------------ | -------- | ------------------------------------------------------------------------------------------------- |
+| Nov 16, 2023 | Español  | [[jsla-casa/Opinion articles/La amenaza en Gaza es tripartita\|La amenaza en Gaza es tripartita]] |
+|              |          |                                                                                                   |
+ %%

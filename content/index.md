@@ -12,7 +12,7 @@ My career is defined by two parallel evolutions: a **professional shift** from t
 
 # Main sections
 
-- [[content/CV/index|CV and portfolio]]
+- [[CV/index|CV and portfolio]]
 - [[Opinion articles/index|Opinion articles]]
 - [[now|What am I doing now?]]
 

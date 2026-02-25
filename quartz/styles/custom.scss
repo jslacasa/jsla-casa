@@ -17,9 +17,9 @@
 // }
 
 /* Hide the list of items on folder pages */
-.page-listing {
-  display: none !important;
-}
+// .page-listing {
+//   display: none !important;
+// }
 
 /* Definición del callout 'info-pro' con el verde #1f5138 */
 .callout[data-callout="info-pro"] {
@@ -47,9 +47,22 @@
 
 
 /* Unbold all links in the body and sidebars */
-a {
-  font-weight: 400 !important;
+// a {
+//   font-weight: 400 !important;
+// }
+
+
+
+/* 2. Enlaces Externos: Añadimos el subrayado elegante */
+a.external, 
+.external-link {
+  text-decoration: underline !important;
+  text-decoration-thickness: 1px !important;
+  text-underline-offset: 3px; /* Espacio para que no corte las letras descendentes como la 'j' o 'p' */
+  text-decoration-color: var(--gray) !important; /* Tu verde medio #4D705F */
 }
+
+
 
 /* Ensure internal Obsidian-style links are also unbolded */
 .internal-link, .external-link {

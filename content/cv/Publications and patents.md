@@ -5,6 +5,8 @@ draft: false
 tags:
 ---
 
+
+
 ## Patents
 
 * **Tevet, Lacasa, Avramovitch.** "[Laminar flow localized protective atmosphere for additive casting.](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024052904)" * **International Publication Number:** WO2024/052904 (September 5th, 2023).

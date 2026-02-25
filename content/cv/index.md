@@ -9,7 +9,7 @@ enableToc: "true"
 2. [[Portfolio]]
 3. [[Education]]
 4. [[Publications and patents]]
-5. [[Awards and recognitions]]
+
 
 ### Summary
 

@@ -18,11 +18,11 @@ tags:
   </p>
 </div>
 
-## Where to go next?
+## ► Where to go next?
 
-Explore my [[cv/index|CV and portfolio]] if you're interested in my professional career, read my last [[Opinion articles/index|opinion articles]] on current affairs, or learn [[now|what I am doing now]].
+Explore my [[cv/index|CV and portfolio]] if you're interested in my professional career, read my last [[Opinion articles/index|opinion articles]] (mainly in Spanish, sorry!) on current affairs, or learn [[now|what I am doing now]].
 
 
-## Get in touch
+## ► Get in touch
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/jslacasa/), [GitHub](https://github.com/jslacasa), or through the [[contact|contact page]].
+You can find me on [LinkedIn](https://www.linkedin.com/in/jslacasa/), [GitHub](https://github.com/jslacasa), or through the form on the [[contact|contact page]].

@@ -25,5 +25,5 @@ tags:
 *Rehovot, Israel | October 2018 – June 2021* 
 
 * **Surface Physics:** Applied **Atomic Force Microscopy (AFM)** to investigate the working principles of catalysts within the Surface Physics and Interface Chemistry group of [Dr. Baran Eren](https://www.weizmann.ac.il/chembiophys/Eren/eren-lab).
-* **Fellowship:** Conducted this research under the prestigious **"la Caixa" Foundation postdoctoral fellowship**.
+* **Fellowship:** ==Conducted this research under the prestigious "la Caixa" Foundation postdoctoral fellowship==.
 

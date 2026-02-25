@@ -47,15 +47,20 @@
 
 
 /* Unbold all links in the body and sidebars */
-// a {
-//   font-weight: 400 !important;
-// }
+a {
+  font-weight: 400 !important;
+}
 
+.page-title a {
+  font-weight: 700 !important;
+  text-decoration: none !important;
+}
 
 
 /* 2. Enlaces Externos: Añadimos el subrayado elegante */
 a.external, 
 .external-link {
+  // font-weight: 400 !important;
   text-decoration: underline !important;
   text-decoration-thickness: 1px !important;
   text-underline-offset: 3px; /* Espacio para que no corte las letras descendentes como la 'j' o 'p' */
@@ -65,7 +70,7 @@ a.external,
 
 
 /* Ensure internal Obsidian-style links are also unbolded */
-.internal-link, .external-link {
+a.external, a.internal, .internal-link, .external-link {
   font-weight: 400 !important;
 }
 
@@ -80,3 +85,4 @@ a.external,
 .graph > div {
   border: none !important;
 }
+

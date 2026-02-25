@@ -1,16 +1,16 @@
 ---
-title: Education, trainings and recognitions
+title: Education
 date:
 draft: false
 tags:
 ---
 
-# Education
+
 
 #### Doctorate in Condensed Matter Physics and Nanoscience
 *University of Murcia, Spain | Oct 2013 – Oct 2018*
-* **Award:** Graduated with the Outstanding Doctoral Award.
-* **Thesis:** "[Multidimensional force spectroscopy for nanoscale characterization of electrostatic and dispersion interactions](https://drive.google.com/file/d/1vrhpkNuMOe7wrrAp3YXGFZQj_MCUCr19/view?usp=drive_link)". 
+* **Award:** ==Graduated with the Outstanding Doctoral Award== ([Link](https://www.um.es/documents/961502/0/Toum-89744_Resoluci%C3%B3n+definitiva_Rector.pdf/458932f7-f132-262a-6fae-ce9f2a21a3fd?t=1623138179778))
+* **Thesis:** "Multidimensional force spectroscopy for nanoscale characterization of electrostatic and dispersion interactions"  ([Link](https://drive.google.com/file/d/1vrhpkNuMOe7wrrAp3YXGFZQj_MCUCr19/view?usp=drive_link)) 
 
 #### Master’s Degree in Condensed Matter Physics and Nanotechnology
 *Autonomous University of Madrid & University of Murcia | Oct 2011 – Jul 2012*
@@ -37,9 +37,3 @@ New frontiers in scanning force microscopy, spanning from ultra-high vacuum to b
 
 Comprehensive training in the field of neutron and synchrotron radiation (X-rays) for condensed matter studies.
 
-
-# Awards and recognitions
-
-- Outstanding doctoral award  in Condense Matter Physics and Nanotechnology. University of Murcia. 
-
-* Weizmann Institute "la Caixa" Foundation Postdoctoral Fellowship (2019–2021).

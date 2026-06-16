@@ -11,7 +11,7 @@ enableToc: "true"
 4. [[Publications and patents]]
 
 
-## ► Summary
+## Summary
 
 I am an experimental physicist dedicated to solving practical challenges through the application of rigorous science. My career has been defined by a transition from high-level academia—investigating nanoscale interactions—to developing innovative industrial solutions in the private sector.
 
@@ -21,7 +21,7 @@ Currently, I serve as an R&D Physicist at [[Magnus Metal Ltd.]] in Israel. Here,
 
 Originally from Spain, I am now based in Tel Aviv. I thrive in multidisciplinary teams where critical thinking and collaborative problem-solving are essential to delivering technology that improves lives.
 
-## ► Technical Expertise
+## Technical Expertise
 
 My toolkit is built on a foundation of data-driven problem solving and advanced instrumentation:
 

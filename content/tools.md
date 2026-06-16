@@ -24,3 +24,8 @@ npx quartz sync
 
 > [!warning]- Under construction
 > This site is a living "digital garden" and is constantly changing and evolving. Some links or technical documentations may still be in progress. If you are looking for specific data from my CV or details on a particular project, please **[[contact]]**.
+
+
+## Fuentes que me gustan de Google Fonts
+- Montserrat para el cuerpo
+- Bangers para los títulos

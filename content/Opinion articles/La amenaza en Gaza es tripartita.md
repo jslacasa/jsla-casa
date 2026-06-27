@@ -3,7 +3,8 @@ title: La amenaza en Gaza es tripartita
 date: 2023-11-17
 draft: false
 tags:
-  - español
+  - Gaza
+  - Israel
 author: Jesús
 ---
 La población civil de la Franja de Gaza afronta hoy, en medio del conflicto entre Israel y Hamás, tres amenazas de distinta naturaleza que resultan igualmente peligrosas. Sin ningún orden en particular, solo el que me permite hilar la narración de forma más coherente, son: la respuesta del Gobierno israelí, la organización terrorista Hamás y la inacción de la comunidad internacional.

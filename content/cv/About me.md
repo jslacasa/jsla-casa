@@ -8,7 +8,7 @@ I am an experimental physicist dedicated to solving practical challenges through
 
 Currently, I serve as an **R&D and System Physicist at Magnus Metal Ltd.** in Israel. Here, I act as the in-house specialist for:
 
-- **Computational Fluid Dynamics (CFD)** and [[COMSOL]] simulations.    
+- **Computational Fluid Dynamics (CFD)** and [[00 Notas/COMSOL]] simulations.    
 - **Ceramic drying technologies** and induction heating.
 - **Module ownership**, where I lead projects from conceptual simulation to physical implementation.
 

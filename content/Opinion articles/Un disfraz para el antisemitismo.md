@@ -4,7 +4,6 @@ date: 2026-06-12
 draft: false
 tags:
   - Antisemitismo
-  - Sionismo
 ---
 El incidente ocurrido en Barcelona, en el que dos mujeres denunciaron haber sido expulsadas de un local tras ser identificadas como judías, me llevó a reflexionar sobre la relación entre antisemitismo y antisionismo en actualidad, en particular en España.
 

@@ -5,6 +5,8 @@ draft: false
 tags:
   - Antisemitismo
 ---
+![[jesus-home.jpg]]
+
 El incidente ocurrido en Barcelona, en el que dos mujeres denunciaron haber sido expulsadas de un local tras ser identificadas como judías, me llevó a reflexionar sobre la relación entre antisemitismo y antisionismo en actualidad, en particular en España.
 
 Hablar del sionismo como si fuera una ideología única es tan impreciso como hablar del nacionalismo español, del europeísmo o del feminismo como movimientos homogéneos. Sin entrar en el sionismo histórico, el sionismo contemporáneo se articula principalmente en corrientes liberales, conservadoras y religiosas. Estas corrientes del sionismo están enfrentadas entre sí en cuestiones fundamentales.

@@ -4,6 +4,7 @@ date: 2026-06-12
 draft: false
 tags:
   - Antisemitismo
+img: "[[jesus-home.jpg]]"
 ---
 ![[jesus-home.jpg]]
 

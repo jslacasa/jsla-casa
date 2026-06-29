@@ -1,7 +1,7 @@
 ---
 title: Education
 date:
-draft: false
+draft: true
 tags:
 ---
 

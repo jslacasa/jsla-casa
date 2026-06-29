@@ -16,8 +16,8 @@ tags:
     My career is defined by two parallel and pivotal transitions: a <strong>professional shift</strong> from fundamental academic inquiry to the rapid innovation of the private sector, and a <strong>geographical journey</strong> from my roots in Spain to the tech-driven landscape of Israel. 
   </p>
 
-%%   <img src="jesus-home-banner.jpg" 
-       style="float: left; margin-right: 20px; margin-bottom: 20px; width: 800px; border-radius: 8px;"> %%
+   <img src="jesus-home-banner.jpg" 
+       style="float: left; margin-right: 20px; margin-bottom: 20px; width: 800px; border-radius: 8px;"> 
 
 </div>
 

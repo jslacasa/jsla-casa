@@ -5,11 +5,12 @@ draft: false
 tags:
 enableToc: "true"
 ---
-1. [[Profesional experience]]
-2. [[Portfolio]]
-3. [[Education]]
-4. [[Publications and patents]]
 
+%% 1. [[Profesional experience]]
+1. [[Portfolio]]
+2. [[Education]]
+3. [[Publications and patents]]
+ %%
 
 ## Summary
 
@@ -29,5 +30,6 @@ My toolkit is built on a foundation of data-driven problem solving and advanced 
 - **Advanced Microscopy:** Expert in [[AFM|Atomic Force Microscopy (AFM)]] and various spectroscopy techniques (XRD, XPS, XAS).
 - **Innovation:** I am a co-inventor of a patented "Laminar flow localized protective atmosphere for additive casting" (WO2024/052904).
 
+## [[Portfolio]]
 
 

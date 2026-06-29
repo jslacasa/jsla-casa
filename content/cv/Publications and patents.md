@@ -1,7 +1,7 @@
 ---
 title: Publications and patents
 date:
-draft: false
+draft: true
 tags:
 ---
 

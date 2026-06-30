@@ -5,25 +5,40 @@ draft: false
 tags:
 ---
 
-<div style="overflow: hidden; margin-top: 20px;">
 
-  
-  <p style="font-size: 16px; line-height: 1.6; margin: 0;">
-    Hello! My name is Jesús and I am a PhD in Experimental Physicist committed to solving practical challenges through the application of rigorous science. 
-  </p>
-  
-  <p style="font-size: 16px; line-height: 1.6; margin-top: 15px;">
-    My career is defined by two parallel and pivotal transitions: a <strong>professional shift</strong> from fundamental academic inquiry to the rapid innovation of the private sector, and a <strong>geographical journey</strong> from my roots in Spain to the tech-driven landscape of Israel. 
-  </p>
 
-   <img src="jesus-home-banner.jpg" 
-       style="float: left; margin-right: 20px; margin-bottom: 20px; width: 800px; border-radius: 8px;"> 
 
+<div>
+<img
+  src="jesus-home.jpg"
+  alt="Jesús Sánchez Lacasa"
+  style="
+    float: left;
+    width: 40%;
+    max-width: 420px;
+    margin: 0 24px 16px 0;
+    border-radius: 8px;
+  ">
+
+<p>
+Hello! My name is Jesús and I am a PhD in Experimental Physics committed to solving practical challenges through the application of rigorous science.
+</p>
+
+<p>
+My career is defined by two parallel and pivotal transitions: a <strong>professional shift</strong> from fundamental academic inquiry to the rapid innovation of the private sector, and a <strong>geographical journey</strong> from my roots in Spain to the tech-driven landscape of Israel.
+</p>
 </div>
+
+<div style="clear: both;"></div>
+
+
+
 
 ## Where to go next?
 
-Explore my [[cv/index|CV and portfolio]] if you're interested in my professional career, read my last [[Opinion articles/index|opinion articles]] (mainly in Spanish, sorry!) on current affairs, or learn [[now|what I am doing now]].
+- Explore the [[cv/index|Career and Portfolio]] section if you're interested in my professional career,
+- read my latest [[Opinion articles/index|opinion articles]] (mainly in Spanish, sorry!), or
+- learn [[now|what I'm doing now]].
 
 
 ## Get in touch

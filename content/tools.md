@@ -29,3 +29,22 @@ npx quartz sync
 ## Fuentes que me gustan de Google Fonts
 - Montserrat para el cuerpo
 - Bangers para los títulos
+
+
+
+<div style="overflow: hidden; margin-top: 20px;">
+
+  
+  <p style="font-size: 16px; line-height: 1.6; margin: 0;">
+    Hello! My name is Jesús and I am a PhD in Experimental Physicist committed to solving practical challenges through the application of rigorous science. 
+  </p>
+  
+  <p style="font-size: 16px; line-height: 1.6; margin-top: 15px;">
+    My career is defined by two parallel and pivotal transitions: a <strong>professional shift</strong> from fundamental academic inquiry to the rapid innovation of the private sector, and a <strong>geographical journey</strong> from my roots in Spain to the tech-driven landscape of Israel. 
+  </p>
+
+   <img src="jesus-home-banner.jpg" 
+       style="float: left; margin-right: 20px; margin-bottom: 20px; width: 800px; border-radius: 8px;"> 
+
+</div>
+

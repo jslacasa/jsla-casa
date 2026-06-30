@@ -4,9 +4,9 @@ date: 2026-06-12
 draft: false
 tags:
   - Antisemitismo
-img: "[[jesus-home.jpg]]"
 ---
-![[jesus-home.jpg]]
+![[Pasted image 20260630234633.png]]
+*At the Unity Rally, a march against antisemitism held in San Francisco, an activist holds up a sign stating "OUR LOVE IS STRONGER THAN YOUR HATE". **Foto: Levi Meir Clancy / Unsplash***
 
 El incidente ocurrido en Barcelona, en el que dos mujeres denunciaron haber sido expulsadas de un local tras ser identificadas como judías, me llevó a reflexionar sobre la relación entre antisemitismo y antisionismo en actualidad, en particular en España.
 

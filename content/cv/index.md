@@ -1,5 +1,5 @@
 ---
-title: CV and Portfolio
+title: Career and Portfolio
 date:
 draft: false
 tags:

@@ -1,7 +1,7 @@
 ---
 title: La amenaza en Gaza es tripartita
 date: 2023-11-17
-draft: false
+draft: true
 tags:
   - Gaza
   - Israel

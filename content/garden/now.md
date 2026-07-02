@@ -4,9 +4,19 @@ date: 2026-02-10
 draft: false
 tags:
 ---
-[[nowff|Esta es una página now, inspirada en el movimiento de Derek Sivers]]
+### Currently inked fountain pens
 
-### Journaling y Minimalismo
+| Date          | Fountain pen                            | Ink                          |
+| ------------- | --------------------------------------- | ---------------------------- |
+| June 28, 2026 | TWSBI Vac mini (M)                      | Herbin Orange indien         |
+| June 20, 2026 | Parker 75 Cisele (M)                    | Parker black                 |
+| June 17, 2026 | Platinum Century #3667 Laurel green (M) | Pilot Hiroshizuku Shin-Ryoku |
 
-Este mes mi enfoque es el "uso profundo": aprovechando al máximo mis plumas fuente actuales sin añadir nada nuevo a la colección. El minimalismo no es falta de objetos, es intención en su uso.
+### Website
+
+I keep working on the portfolio section of this site.
+
+### Writing
+
+I am working on my creative writing skill at a workshop in [[Instituto Cervantes de Tel Aviv]].
 

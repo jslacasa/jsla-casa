@@ -6,7 +6,7 @@ tags:
 enableToc: "true"
 ---
 
-%% 1. [[Profesional experience]]
+%% 1[](Profesional%20experience.md)]]
 1. [[Portfolio]]
 2. [[Education]]
 3. [[Publications and patents]]

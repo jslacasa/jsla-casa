@@ -36,8 +36,8 @@ My career is defined by two parallel and pivotal transitions: a <strong>professi
 
 ## Where to go next?
 
-- Explore the [[cv/index|Career and Portfolio]] section if you're interested in my professional career,
-- read my latest [[Opinion articles/index|opinion articles]] (mainly in Spanish, sorry!), or
+- Explore the [[career/index|Career and Portfolio]] section if you're interested in my professional career,
+- read my latest [[opinion/index|opinion articles]] (mainly in Spanish, sorry!), or
 - learn [[now|what I'm doing now]].
 
 

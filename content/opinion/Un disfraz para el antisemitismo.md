@@ -1,6 +1,6 @@
 ---
 title: Un disfraz para el antisemitismo
-date: 2026-06-12
+date: 2026-06-10
 draft: false
 tags:
   - Antisemitismo

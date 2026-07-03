@@ -8,7 +8,7 @@ tags:
 
 
 
-<div>
+%% <div>
 <img
   src="jesus-home.jpg"
   alt="Jesús Sánchez Lacasa"
@@ -27,12 +27,14 @@ Hello! My name is Jesús and I am a PhD in Experimental Physics committed to sol
 <p>
 My career is defined by two parallel and pivotal transitions: a <strong>professional shift</strong> from fundamental academic inquiry to the rapid innovation of the private sector, and a <strong>geographical journey</strong> from my roots in Spain to the tech-driven landscape of Israel.
 </p>
-</div>
+</div> %%
 
 <div style="clear: both;"></div>
 
 
+Hello! My name is Jesús and I am a PhD in Experimental Physics committed to solving practical challenges through the application of rigorous science.
 
+My career is defined by two parallel and pivotal transitions: a <strong>professional shift</strong> from fundamental academic inquiry to the rapid innovation of the private sector, and a <strong>geographical journey</strong> from my roots in Spain to the tech-driven landscape of Israel.
 
 ## Where to go next?
 

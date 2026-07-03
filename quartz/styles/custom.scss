@@ -47,32 +47,33 @@
 
 
 /* Unbold all links in the body and sidebars */
-a {
-  font-weight: 400 !important;
-}
+// a {
+//   font-weight: 400 !important;
+// }
 
 .page-title a {
   font-weight: 700 !important;
   text-decoration: none !important;
+  font-size: 1.75rem !important;
 }
 
 
 /* 2. Enlaces Externos: Añadimos el subrayado elegante */
-a.external, 
-.external-link {
-  // font-weight: 400 !important;
-  text-decoration: underline !important;
-  text-decoration-thickness: 1px !important;
-  text-underline-offset: 3px; /* Espacio para que no corte las letras descendentes como la 'j' o 'p' */
-  text-decoration-color: var(--gray) !important; /* Tu verde medio #4D705F */
-}
+// a.external, 
+// .external-link {
+//   // font-weight: 400 !important;
+//   text-decoration: underline !important;
+//   text-decoration-thickness: 1px !important;
+//   text-underline-offset: 3px; /* Espacio para que no corte las letras descendentes como la 'j' o 'p' */
+//   text-decoration-color: var(--gray) !important; /* Tu verde medio #4D705F */
+// }
 
 
 
 /* Ensure internal Obsidian-style links are also unbolded */
-a.external, a.internal, .internal-link, .external-link {
-  font-weight: 400 !important;
-}
+// a.external, a.internal, .internal-link, .external-link {
+//   font-weight: 400 !important;
+// }
 
 /* Eliminar el borde y sombreado del Graph View */
 .graph {

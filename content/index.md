@@ -36,6 +36,7 @@ Hello! My name is Jesús and I am a PhD in Experimental Physics committed to sol
 
 My career is defined by two parallel and pivotal transitions: a <strong>professional shift</strong> from fundamental academic inquiry to the rapid innovation of the private sector, and a <strong>geographical journey</strong> from my roots in Spain to the tech-driven landscape of Israel.
 
+gg
 ## Where to go next?
 
 - Explore the [[career/index|Career and Portfolio]] section if you're interested in my professional career,

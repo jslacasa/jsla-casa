@@ -1,7 +1,7 @@
 ---
 title: Garden of notes
 date:
-draft: false
+draft: true
 tags:
 author:
 ---

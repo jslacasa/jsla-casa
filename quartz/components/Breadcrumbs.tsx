@@ -32,7 +32,7 @@ const defaultOptions: BreadcrumbOptions = {
   spacerSymbol: "❯",
   rootName: "Home",
   resolveFrontmatterTitle: true,
-  showCurrentPage: true,
+  showCurrentPage: false, // default to false to avoid redundancy with page title
 }
 
 function formatCrumb(displayName: string, baseSlug: FullSlug, currentSlug: SimpleSlug): CrumbData {

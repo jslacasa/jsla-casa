@@ -76,14 +76,14 @@
 // }
 
 /* Eliminar el borde y sombreado del Graph View */
-.graph {
-  border: none !important;
-  box-shadow: none !important;
-  outline: none !important;
-}
+// .graph {
+//   border: none !important;
+//   box-shadow: none !important;
+//   outline: none !important;
+// }
 
 /* En caso de que Quartz lo renderice dentro de una caja de componente */
-.graph > div {
-  border: none !important;
-}
+// .graph > div {
+//   border: none !important;
+// }
 

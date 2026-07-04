@@ -1,5 +1,5 @@
 ---
-title: How I make the site
+title: How I make this site
 date: 2026-07-04
 draft: false
 tags:

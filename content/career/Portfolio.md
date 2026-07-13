@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 date:
-draft: false
+draft: true
 tags:
 ---
 ## Inductive heating simulations

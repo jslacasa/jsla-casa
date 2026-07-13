@@ -1,5 +1,5 @@
 ---
-title: Career and Portfolio
+title: Career
 date:
 draft: false
 tags:
@@ -12,9 +12,9 @@ enableToc: "true"
 3. [[Publications and patents]]
  %%
 
-## Summary
+## About me
 
-I am an experimental physicist dedicated to solving practical challenges through the application of rigorous science. My career has been defined by a transition from high-level academia—investigating nanoscale interactions—to developing innovative industrial solutions in the private sector.
+**R&D physicist** dedicated to solving practical challenges through the application of rigorous science. I am specialized in complex **industrial physical systems**, **multiphysics simulations**, and **technology transfer to industrial environments**.
 
 I earned my PhD in Condensed Matter Physics and Nanoscience from the University of Murcia, receiving the Outstanding Doctoral Award. Prior to my current role, I conducted postdoctoral research at the Weizmann Institute of Science, where I used **Atomic Force Microscopy (AFM)** in **Ultra High Vacuum (UHV)** to explore the working principles of catalysts. I also managed specialized laboratory environments at the Technion – Israel Institute of Technology.
 
@@ -22,14 +22,30 @@ Currently, I serve as an R&D Physicist at Magnus Metal Ltd. in Israel. Here, I a
 
 Originally from Spain, I am now based in Tel Aviv. I thrive in multidisciplinary teams where critical thinking and collaborative problem-solving are essential to delivering technology that improves lives.
 
+## Professional skills
+
+- Technology evaluation and physics-based decision making.
+- Cross-functional collaboration.
+- Analytical problem solving.
+- Scientiﬁc communication
+- Independent project leadership
+- Rapid learning and innovation
+
 ## Technical Expertise
 
-My toolkit is built on a foundation of data-driven problem solving and advanced instrumentation:
+**Simulation-Driven Design**  
+Physics-based design and optimization using multiphysics simulations and experimental validation.
 
-- **Simulations & Analysis:** Proficient in data analysis and machine learning with Python (Pandas, Scikit-learn), and COMSOL for modeling complex physical systems.
-- **Advanced Microscopy:** Expert in AFM and various spectroscopy techniques (XRD, XPS, XAS).
-- **Innovation:** I am a co-inventor of a patented "Laminar flow localized protective atmosphere for additive casting" (WO2024/052904).
+**Research & Technology Development**   
+Feasibility studies, proof-of-concept development, technology evaluation, and innovation
+projects.
 
-## [[Portfolio]]
+**Multiphysics Modeling**   
+COMSOL Multiphysics; CFD, heat transfer, electromagnetics, induction heating, and coupled physics.
 
+**Experimental Physics**   
+Complex laboratory experiments, instrumentation, prototype development, measurement systems, and validation.
+
+**Data Analysis & Scientiﬁc Computing**   
+Python (NumPy, Pandas, SciPy, Jupyter), MATLAB, Mathematica.
 

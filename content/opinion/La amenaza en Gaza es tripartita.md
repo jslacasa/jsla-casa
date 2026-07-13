@@ -5,6 +5,7 @@ draft: true
 tags:
   - Gaza
   - Israel
+  - Español
 author: Jesús
 ---
 ![[Pasted image 20260701000454.png]]
